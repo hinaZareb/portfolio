@@ -7,7 +7,7 @@ const Skills = () => {
             <div>
                 <h2 className='text-4xl md:text-5xl font-bold'>Areas of Proficiency</h2>
                 <p className='text-gray-600 pt-4'>
-                    "I am skilled in a diverse range of front-end and back-end technologies, allowing me to build robust, responsive, and modern web applications. My expertise includes HTML, CSS, and Tailwind CSS for crafting visually appealing interfaces, as well as TypeScript and JavaScript for dynamic, interactive user experiences. I am also proficient in Next.js and Node.js, which enable me to create efficient, high-performing applications with a focus on scalability. My technical foundation and continuous learning mindset help me to adapt and excel in the ever-evolving world of web development."
+                &quot;I am skilled in a diverse range of front-end and back-end technologies allowing me to build robust responsive and modern web applications. My expertise includes HTML CSS and Tailwind CSS for crafting visually appealing interfaces as well as TypeScript and JavaScript for dynamic interactive user experiences. I am also proficient in Next.js and Node.js which enable me to create efficient high-performing applications with a focus on scalability. My technical foundation and continuous learning mindset help me to adapt and excel in the ever-evolving world of web development&quot;
 
 </p>
             </div>

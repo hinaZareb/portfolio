@@ -9,7 +9,7 @@ const Contact = () => {
         <div className='space-y8'>
             <h2 className='text-5xl font-bold' data-aos="zoom-in">Feel Free to Contact Me</h2>
             <p className='text-gray-600 text-[18px] pt-2' data-aos="zoom-in">
-            "I'm always open to discussing new opportunities and collaborations—drop me a message!"
+            &quot;I am always open to discussing new opportunities and collaborations—drop me a messege.&quot;
             </p>
             <div className='flex gap-3 items-center' data-aos="zoom-up">
             <MdOutlineMailOutline  size={30}/> xii.af1pm86@gmail.com
